@@ -1,13 +1,7 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://firebasestorage.googleapis.com/v0/b/my-project-1482573108901.appspot.com/o/assets%2Fcss%2Fplugins.min.css?alt=media&token=76ce2f6a-a2f1-44eb-911c-442c47b7b2df");
+@import url("https://firebasestorage.googleapis.com/v0/b/my-project-1482573108901.appspot.com/o/assets%2Fcss%2Fstyle.css?alt=media&token=4a5dc073-2590-49f0-b07e-8478d295c58b");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.ms-logo img {
+  width: auto;
+  height: 210% !important;
 }
